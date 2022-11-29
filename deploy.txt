@@ -1,0 +1,2 @@
+echo list of 2022 DevOps Engineers
+echo Simom Elvis Henry Stanley Kennedy John
